@@ -1,0 +1,110 @@
+[
+  {
+    "model": "deeponet",
+    "seed": 17,
+    "continuity": 0.09565396457910538,
+    "x_momentum": 0.7507366895675659,
+    "y_momentum": 0.3604396452506383,
+    "vapor_transport": 542.9153027852376,
+    "physics_residual": 544.1221330846349
+  },
+  {
+    "model": "deeponet",
+    "seed": 29,
+    "continuity": 0.08442779158552488,
+    "x_momentum": 0.7734689692656199,
+    "y_momentum": 0.41563791831334435,
+    "vapor_transport": 407.8980669657389,
+    "physics_residual": 409.1716016449034
+  },
+  {
+    "model": "deeponet",
+    "seed": 7,
+    "continuity": 0.08464953303337097,
+    "x_momentum": 0.823428084452947,
+    "y_momentum": 0.43484612902005515,
+    "vapor_transport": 810.284898630778,
+    "physics_residual": 811.6278223772844
+  },
+  {
+    "model": "fno",
+    "seed": 17,
+    "continuity": 0.2758579358458519,
+    "x_momentum": 0.495541650056839,
+    "y_momentum": 0.24244945918520291,
+    "vapor_transport": 46.759965070088704,
+    "physics_residual": 47.7738141151766
+  },
+  {
+    "model": "fno",
+    "seed": 29,
+    "continuity": 0.2600476590295633,
+    "x_momentum": 0.4646146575609843,
+    "y_momentum": 0.20290571302175522,
+    "vapor_transport": 58.391465250651045,
+    "physics_residual": 59.31903328026335
+  },
+  {
+    "model": "fno",
+    "seed": 7,
+    "continuity": 0.24378894145290056,
+    "x_momentum": 0.45840136309464774,
+    "y_momentum": 0.19995303750038146,
+    "vapor_transport": 52.21571623484294,
+    "physics_residual": 53.117859576890865
+  },
+  {
+    "model": "pinn",
+    "seed": 17,
+    "continuity": 0.1823831543326378,
+    "x_momentum": 0.3208574801683426,
+    "y_momentum": 0.06748107199867566,
+    "vapor_transport": 7.16359554429849,
+    "physics_residual": 7.734317250798146
+  },
+  {
+    "model": "pinn",
+    "seed": 29,
+    "continuity": 0.18191572576761245,
+    "x_momentum": 0.3243071059385935,
+    "y_momentum": 0.06091913028309743,
+    "vapor_transport": 8.787179685320007,
+    "physics_residual": 9.35432164730931
+  },
+  {
+    "model": "pinn",
+    "seed": 7,
+    "continuity": 0.17057618200778962,
+    "x_momentum": 0.3219555457433065,
+    "y_momentum": 0.06161678104350964,
+    "vapor_transport": 7.628713484764254,
+    "physics_residual": 8.18286199355886
+  },
+  {
+    "model": "unet",
+    "seed": 17,
+    "continuity": 0.17951085108021894,
+    "x_momentum": 0.31074377050002416,
+    "y_momentum": 0.18429629504680634,
+    "vapor_transport": 64.80259496370951,
+    "physics_residual": 65.47714588033656
+  },
+  {
+    "model": "unet",
+    "seed": 29,
+    "continuity": 0.26459024026989936,
+    "x_momentum": 0.51075406173865,
+    "y_momentum": 0.3610923116405805,
+    "vapor_transport": 102.39332860310873,
+    "physics_residual": 103.52976521675785
+  },
+  {
+    "model": "unet",
+    "seed": 7,
+    "continuity": 0.1807585095365842,
+    "x_momentum": 0.3159332032004992,
+    "y_momentum": 0.1868194910387198,
+    "vapor_transport": 43.30194625854492,
+    "physics_residual": 43.985457462320724
+  }
+]

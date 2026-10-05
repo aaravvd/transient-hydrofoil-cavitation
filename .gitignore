@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+
+# Archived separately on Zenodo: https://doi.org/10.5281/zenodo.23148648
+data/raw/
+data/processed/
+dataset_release/*.zip
+dataset_release/*.tar.gz
+
+# Trained weights and legacy runs are reproducible from the released data.
+training_runs/
+training_runs_6epoch/
+training_runs_legacy/
+

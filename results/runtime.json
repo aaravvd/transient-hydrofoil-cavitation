@@ -1,0 +1,8 @@
+{
+  "cfd_seconds_per_trajectory_mean": 83.36666666666666,
+  "cfd_seconds_per_trajectory_std": 17.58032468676145,
+  "CNN-U-Net_20_step_speedup": 274.89882715289946,
+  "FNO_20_step_speedup": 449.56725642273074,
+  "DeepONet_20_step_speedup": 884.7783673066326,
+  "PINN_20_step_speedup": 770.0783562226629
+}

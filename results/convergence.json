@@ -1,0 +1,42 @@
+[
+  {
+    "case": "conv_coarse_naca0012_a07_s120",
+    "cells": 1910,
+    "mean_cd": 0.044390576675,
+    "mean_cl": 0.47691731387499997,
+    "mean_cavity_area_over_c2": 0.009783542715013027,
+    "mean_min_pressure_pa": 2247.413330078125
+  },
+  {
+    "case": "conv_dt_naca0012_a07_s120",
+    "cells": 3555,
+    "mean_cd": 0.036276674914814816,
+    "mean_cl": 0.42779310111111113,
+    "mean_cavity_area_over_c2": 0.006275161635130644,
+    "mean_min_pressure_pa": 2296.85302734375
+  },
+  {
+    "case": "conv_fine_naca0012_a07_s120",
+    "cells": 7077,
+    "mean_cd": 0.03474031139090908,
+    "mean_cl": 0.46675678090909084,
+    "mean_cavity_area_over_c2": 0.009432428516447544,
+    "mean_min_pressure_pa": 2255.821044921875
+  },
+  {
+    "case": "conv_medium_naca0012_a07_s120",
+    "cells": 3555,
+    "mean_cd": 0.03661691577142857,
+    "mean_cl": 0.4307403717142857,
+    "mean_cavity_area_over_c2": 0.006362309213727713,
+    "mean_min_pressure_pa": 2295.78662109375
+  },
+  {
+    "case": "conv_xfine_naca0012_a07_s120",
+    "cells": 13825,
+    "mean_cd": 0.03640031965428572,
+    "mean_cl": 0.49465420345714284,
+    "mean_cavity_area_over_c2": 0.00897632259875536,
+    "mean_min_pressure_pa": 2294.826416015625
+  }
+]

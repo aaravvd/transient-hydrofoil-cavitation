@@ -1,0 +1,17 @@
+{
+  "cases": [
+    {
+      "id": "pilot_naca0012_a07_s120",
+      "geometry": "NACA0012",
+      "chord_m": 0.1,
+      "angle_deg": 7.0,
+      "reynolds": 1000000.0,
+      "cavitation_number": 1.2,
+      "end_time_s": 0.03,
+      "write_interval_s": 0.001,
+      "initial_delta_t_s": 0.00000001,
+      "mesh_size_foil_m": 0.0015,
+      "mesh_size_far_m": 0.03
+    }
+  ]
+}
