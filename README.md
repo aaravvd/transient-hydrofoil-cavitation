@@ -55,8 +55,7 @@ python scripts/make_results.py
 ```
 
 Convergence cases are defined in `configs/convergence.json` and
-`configs/convergence_xfine.json`. The manuscript and its IEEE source template
-are under `paper/`; machine-readable aggregate results are under `results/`.
+`configs/convergence_xfine.json`. 
 
 ## Important interpretation
 
